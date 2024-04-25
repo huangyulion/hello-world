@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 	
-   <h1> Thank you!Docoker contanier testing - section29 automate ! </h1>
+   <h1> Thank you!Docoker contanier testing - section30 Docker Automate build and deploy </h1>
 
   
 </form>
